@@ -2,7 +2,7 @@
 
 Project Link : https://keerti-0b9be0e10.1.azurestaticapps.net
 
-Demo Video : https://vimeo.com/718651949
+Demo Video : https://drive.google.com/file/d/1n8-y5zR3sfy3JUc83mxJR2INyrCWszqQ/view?usp=drivesdk
 
 _______________________________________________________________________________________________________________________________________________________________________
 
