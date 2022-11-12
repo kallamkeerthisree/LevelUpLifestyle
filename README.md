@@ -2,7 +2,7 @@
 
 Project Link : https://kallamkeerthisree.github.io/LevelUpLifestyle/
 
-Demo Video : https://drive.google.com/file/d/1n8-y5zR3sfy3JUc83mxJR2INyrCWszqQ/view?usp=drivesdk
+Demo Video : 
 
 _______________________________________________________________________________________________________________________________________________________________________
 
