@@ -26,12 +26,15 @@ Primary Azure Technology : Static Web Apps, Web Apps
 
 # Screenshots
 
-![Screenshot (372)](https://user-images.githubusercontent.com/77123160/171273858-3505a3e3-3e9a-4c2d-8271-36744124ab02.png)
 
-![Screenshot (373)](https://user-images.githubusercontent.com/77123160/171273879-188ccde3-9c39-46d5-9b9e-987a6c992c6c.png)
 
-![Screenshot (374)](https://user-images.githubusercontent.com/77123160/171273935-4c448ec6-13cf-45a4-9fce-aab0993ed649.png)
-
-![Screenshot (375)](https://user-images.githubusercontent.com/77123160/171273942-5b9d6322-f129-4ba4-a7f7-94b4bc7678a9.png)
-
+![Screenshot (25)](https://user-images.githubusercontent.com/115975095/204774644-b783a098-619a-449c-87a4-610996d88e29.png)
+![Screenshot (26)](https://user-images.githubusercontent.com/115975095/204774718-ac1dabe3-e744-4bb1-bfaa-ce3667aebff4.png)
+![Screenshot (27)](https://user-images.githubusercontent.com/115975095/204774739-16491bbf-c592-427a-bac1-dfa56a40e6f5.png)
+![Screenshot (28)](https://user-images.githubusercontent.com/115975095/204774742-ab06b208-8fb4-49fd-b032-b9f95467fd63.png)
+![Screenshot (29)](https://user-images.githubusercontent.com/115975095/204774762-f31e4c82-27e8-4095-951c-d847aecba3f2.png)
+![Screenshot (30)](https://user-images.githubusercontent.com/115975095/204774781-876b8b12-ec24-4407-8ed7-8c49ec01318f.png)
+![Screenshot (31)](https://user-images.githubusercontent.com/115975095/204774793-766d0fc3-c118-4325-a885-42212e71fbc2.png)
+![Screenshot (32)](https://user-images.githubusercontent.com/115975095/204774803-7d0e86eb-caf0-4251-b38e-d1227a1eb089.png)
+![Screenshot (33)](https://user-images.githubusercontent.com/115975095/204774814-801b975f-64ee-4c15-8ea0-4b4e0417a738.png)
 
