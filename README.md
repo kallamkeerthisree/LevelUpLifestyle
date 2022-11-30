@@ -38,3 +38,12 @@ Primary Azure Technology : Static Web Apps, Web Apps
 ![Screenshot (32)](https://user-images.githubusercontent.com/115975095/204774803-7d0e86eb-caf0-4251-b38e-d1227a1eb089.png)
 ![Screenshot (33)](https://user-images.githubusercontent.com/115975095/204774814-801b975f-64ee-4c15-8ea0-4b4e0417a738.png)
 
+
+#Azure services:
+
+>Azure Bot Services
+>Static WebApps
+
+#Project Demo Link:https://gentle-meadow-0ffc58f00.2.azurestaticapps.net/
+
+#GitHub Deployed Link: 
