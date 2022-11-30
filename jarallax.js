@@ -1,9 +1,3 @@
-/*!
- * Name    : Just Another Parallax [Jarallax]
- * Version : 1.1.0
- * Author  : _nK http://nkdev.info
- * GitHub  : https://github.com/nk-o/jarallax
- */
 (function(factory) {
     'use strict';
     if (typeof define === 'function' && define.amd) {
